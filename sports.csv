@@ -1,0 +1,21 @@
+Types of sports,Level,Time commitment/ month,Gender,Number of records
+Badminton,Beginner,20,F,10
+Badminton,Experienced,120,F,5
+Badminton,Beginner,15,M,10
+Badminton,Experienced,240,M,3
+Bowling,Beginner,0,F,11
+Bowling,Experienced,60,F,4
+Bowling,Beginner,10,M,10
+Bowling,Experienced,60,M,3
+Basketball,Beginner,10,F,8
+Basketball,Experienced,60,F,4
+Basketball,Beginner,0,M,7
+Basketball,Experienced,10,M,2
+Canoeing,Beginner,5,F,6
+Canoeing,Experienced,120,F,3
+Canoeing,Beginner,5,M,7
+Canoeing,Experienced,60,M,3
+Ice skating,Beginner,0,F,6
+Ice skating,Experienced,120,F,2
+Ice skating,Beginner,5,M,7
+Ice skating,Experienced,100,M,1
